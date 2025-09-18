@@ -1,4 +1,5 @@
 # Titulo do projeto
+
 ![Static Badge](https://img.shields.io/badge/:badgeContent)
 ![Static Badge](https://img.shields.io/badge/any_text-you_like-blue)
 ![Static Badge](https://img.shields.io/badge/just%20the%20message-8A2BE2)
